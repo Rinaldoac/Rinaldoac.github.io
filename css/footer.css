@@ -18,6 +18,10 @@
   color: #ccc;
 }
 
+.footer-texto a {
+  color: #0045f6;
+}
+
 .footer-contato li {
   font-weight: bold;
   font-size: 2.25rem;
