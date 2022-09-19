@@ -36,6 +36,27 @@
   color: #8f8f8f;
 }
 
+.footer-redes {
+  display: flex;
+  gap: 20px;
+}
+
+/* .email img {
+  display: block;
+  position: absolute;
+  z-index: -1;
+  top: 130px;
+  left: 1070px;
+}
+
+.phone img {
+  display: block;
+  position: absolute;
+  z-index: -1;
+  top: 190px;
+  left: 1070px;
+} */
+
 @media (max-width: 800px) {
   .footer-container {
     grid-template-columns: 1fr;
@@ -44,4 +65,19 @@
   .footer-contato li {
     font-size: 1.5rem;
   }
+  /* .email img {
+    display: block;
+    position: initial;
+    z-index: -1;
+    top: 130px;
+    left: 1070px;
+  }
+
+  .phone img {
+    display: block;
+    position: initial;
+    z-index: -1;
+    top: 190px;
+    left: 1070px;
+  } */
 }
