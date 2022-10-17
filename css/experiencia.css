@@ -11,6 +11,12 @@
   color: #e0e0e0;
 }
 
+.experiencia-titulo {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #525252;
+}
+
 .experiencia-texto {
   font-size: 1.5rem;
   line-height: 1.33;
